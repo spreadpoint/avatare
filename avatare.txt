@@ -1,0 +1,28 @@
+!-*- coding: utf-8;-*-
+! avatare.txt
+
+LEXICON Root
+	VG ;
+	HG ;
+
+LEXICON VG
+eis	HG ;
+schnee	HG ;
+blitz	HG ;
+donner	HG ;
+regen	HG ;
+sonnen	HG ;
+sommer	HG ;
+herbst	HG ;
+frühlings HG ;
+wald	HG ;
+
+LEXICON HG
+vogel	# ;
+biber	# ;
+fuchs	# ;
+igel	# ;
+maus	# ;
+rabe	# ;
+spinne	# ;
+schlange # ;

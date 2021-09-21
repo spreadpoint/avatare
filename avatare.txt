@@ -29,6 +29,7 @@ rabe    # ;
 spinne  # ;
 schlange # ;
 
+! https://github.com/skeeto/scratch/tree/master/misc/codename.c, https://www.ufopaedia.org/index.php/Mission_Names_(EU2012), https://en.wikipedia.org/wiki/Secret_Service_code_name
 LEXICON en_adjective
 swinging        en_noun ;
 radiant en_noun ;
